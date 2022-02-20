@@ -5,7 +5,7 @@
 	"author": "Ragul",
 	"repository": "https://github.com/RagulSid/monokle-template-plugin",
 	"monoklePlugin": {
-		"id": "com.github.kunal-kushwaha.plugin.templates",
+		"id": "com.github.RagulSid.plugin.templates",
 		"helpUrl": "https://github.com/RagulSid/monokle-template-plugin",
 		"modules": [{
 			"type": "template",
