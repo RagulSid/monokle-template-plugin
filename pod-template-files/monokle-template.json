@@ -1,0 +1,24 @@
+{
+    "name": "Basic Pod",
+    "id": "com.github.RagulSid.plugin.templates.pod-template-files",
+    "author": "Ragul",
+    "version": "1.0",
+    "description": "Creating Pod for the Image!",
+    "repository": "",
+    "type": "vanilla",
+    "forms": [
+      {
+        "name": "Pod Settings",
+        "description": "Please specify the settings required for your Pod",
+        "schema": "form-schema.json",
+        "uiSchema": "form-ui-schema.json"
+      }
+    ],
+    "manifests": [
+      {
+        "filePath": "template.yaml"
+      }
+    ],
+    "resultMessage": "Pod resource created successfully!",
+    "helpUrl": "https://github.com/kunal-kushwaha/monokle-templates-plugin"
+  }
